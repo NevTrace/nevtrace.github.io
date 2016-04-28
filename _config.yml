@@ -1,6 +1,6 @@
 # Site settings
 title: NevTrace
-description: 'The Blockchain lab'
+description: 'The blockchain lab'
 url: 'http://nevtrace.com'
 baseurl: '/'
 google_analytics: 'UA-77064339-1'
